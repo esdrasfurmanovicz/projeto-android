@@ -15,12 +15,12 @@
 */
 
 :root{
-    --cor0: #c5ebd6;
-    --cor1: #96e4b9;
-    --cor2: #3ddc84;
-    --cor3: #2fa866;
-    --cor4: #1a5c37;
-    --cor5: #063d1e;
+    --cor0: #7F99FA;
+    --cor1: #b3bbd4;
+    --cor2: #5F73BA;
+    --cor3: #3E4B7A;
+    --cor4: #091855;
+    --cor5: #1E243B;
 
     --fonte-padrao: Arial, Verdana, Helvetica, sans-serif;
     --fonte-destaque: 'Bebas Neue', sans-serif;
@@ -142,7 +142,7 @@ main h2{
     font-family: var(--fonte-droid);
     color: var(--cor4);
     font-size: 1.3em;
-    background-image: linear-gradient(to right, var(--cor2), transparent);
+    background-image: linear-gradient(to right, var(--cor0), transparent);
     text-indent: 5px;
 }
 aside{
