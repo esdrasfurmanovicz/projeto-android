@@ -56,9 +56,7 @@ header > p{
     font-size: 1.2em;
     max-width: 500px; /* Quando configuramos seu max-width tranformamos o p em uma caixa do tipo block, então deixamos sua margin no auto */
     margin: auto;
-    padding-left: 10px;
-    padding-right: 10px;
-    margin-bottom: 20px;
+    padding: 0px 10px 20px 10px;
 }
 nav{
     background-color: var(--cor5);
